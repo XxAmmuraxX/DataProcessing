@@ -1,1 +1,3 @@
 In this task, we will use data provided by the Stack Exchange network https://archive.org/details/stackexchange
+Task 1 uses bicycles forum
+Task 2 uses islam forum
